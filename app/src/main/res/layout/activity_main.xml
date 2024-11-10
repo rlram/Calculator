@@ -15,6 +15,7 @@
         android:autofillHints="number"
         android:inputType="number"
         android:textSize="55sp"
+        android:maxLength="19"
         android:gravity="end"
         android:paddingStart="10dp"
         android:paddingEnd="10dp"
